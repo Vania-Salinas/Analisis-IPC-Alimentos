@@ -10,17 +10,11 @@ Datos:
 - Periodicidad: Precios promedio mensuales
 
 Proceso:
-En Python
-    - Limpieza y transformación de datos
-    - Filtrado de alimentos
-    - Normalización temporal
-    - Dataset final en formato largo
-En Power BI
-    - Creación de medidas DAX
-    - Indicadores clave y visualizaciones
-    - Filtros y diseño del dashboard
+En Python: Limpieza y transformación de datos, Filtrado de alimentos, Normalización temporal y Dataset final en formato largo
+En Power BI: Creación de medidas DAX, Indicadores clave y visualizaciones, Filtros y diseño del dashboard
 
 Dashboard: Dashboard interactivo en Power BI orientado al análisis de la evolución de precios y ranking de productos.
 
 Herramientas: Python · Power BI · GitHub
+
 
